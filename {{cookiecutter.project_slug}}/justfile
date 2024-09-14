@@ -1,0 +1,9 @@
+# List commands
+help:
+    just --list
+
+# Run formatters
+fmt:
+    black .
+    alejandra .
+    just --unstable --fmt

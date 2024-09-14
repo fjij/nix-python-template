@@ -1,0 +1,1 @@
+# Nix Python Project Template
